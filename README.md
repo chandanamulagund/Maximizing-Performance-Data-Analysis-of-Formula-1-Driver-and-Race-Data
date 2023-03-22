@@ -29,5 +29,7 @@ The data analysis reveals interesting insights about F1 races, the drivers who c
 
 ## References
 Kaggle dataset: https://www.kaggle.com/datasets/dubradave/formula-1-drivers-dataset
+
 Pandas documentation: https://pandas.pydata.org/docs/
+
 Matplotlib documentation: https://matplotlib.org/stable/contents.html
