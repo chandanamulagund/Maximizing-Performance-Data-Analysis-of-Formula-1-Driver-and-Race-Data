@@ -1,5 +1,5 @@
 # f1-analysis
-<img width="462" alt="Screenshot 2023-04-04 at 7 48 02 AM" src="https://user-images.githubusercontent.com/99470852/229669829-7762e338-5e22-4e40-9e0a-3ab8d479b0db.png">
+<img width="800" alt="Screenshot 2023-04-04 at 7 48 02 AM" src="https://user-images.githubusercontent.com/99470852/229669829-7762e338-5e22-4e40-9e0a-3ab8d479b0db.png">
 
 ## Introduction
 This repository contains data analysis of Formula One (F1) races.The data is accurate as of the 2023 Bahrain Grand Prix. The analysis is performed using Python programming language and various data analysis libraries such as Pandas, Numpy, and Matplotlib.
