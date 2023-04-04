@@ -1,5 +1,5 @@
 # f1-analysis
-!(https://www.wallpaperflare.com/formula-1-logo-f1-logo-4k-8k-wallpaper-pcqld)
+![f1 logo](https://www.wallpaperflare.com/formula-1-logo-f1-logo-4k-8k-wallpaper-pcqld)
 ## Introduction
 This repository contains data analysis of Formula One (F1) races.The data is accurate as of the 2023 Bahrain Grand Prix. The analysis is performed using Python programming language and various data analysis libraries such as Pandas, Numpy, and Matplotlib.
 
