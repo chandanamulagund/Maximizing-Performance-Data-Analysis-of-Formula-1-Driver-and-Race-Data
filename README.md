@@ -1,4 +1,4 @@
-# f1-analysis
+# Maximizing Performance: Data Analysis of Formula 1 Driver and Race Data
 <img width="1200" alt="Screenshot 2023-04-04 at 7 48 02 AM" src="https://user-images.githubusercontent.com/99470852/229669829-7762e338-5e22-4e40-9e0a-3ab8d479b0db.png">
 
 ## Introduction
